@@ -1,0 +1,14 @@
+﻿Build started 04/12/2015 13:55:07.
+     1>Project "E:\UniWork\Year1\COMP103\ArrayProgarmCOMP103\ArrayProgarmCOMP103\ArrayProgarmCOMP103.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt ArrayProgarmCOMP103.cpp
+         ArrayProgarmCOMP103.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\UniWork\Year1\COMP103\ArrayProgarmCOMP103\Debug\ArrayProgarmCOMP103.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"E:\UniWork\Year1\COMP103\ArrayProgarmCOMP103\Debug\ArrayProgarmCOMP103.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\UniWork\Year1\COMP103\ArrayProgarmCOMP103\Debug\ArrayProgarmCOMP103.lib" /MACHINE:X86 Debug\ArrayProgarmCOMP103.obj
+         Debug\stdafx.obj
+         ArrayProgarmCOMP103.vcxproj -> E:\UniWork\Year1\COMP103\ArrayProgarmCOMP103\Debug\ArrayProgarmCOMP103.exe
+     1>Done Building Project "E:\UniWork\Year1\COMP103\ArrayProgarmCOMP103\ArrayProgarmCOMP103\ArrayProgarmCOMP103.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.31
